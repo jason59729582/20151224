@@ -261,6 +261,14 @@ function initrGzmsSelect(selectObj){
 												nullAble='true' />
 										</td>
 									</tr>
+									<tr height="46">
+										<td  class="Tab_title">维修报告</td>
+										<td colspan="11"><e:etextfield name="wxMem" maxSize=""
+												nullAble='true' />
+										</td>
+
+									</tr>
+									<!--reviewed 12/28/2015 JY Xu-->
 								</table>
 							</e:etab>
 							<br>

@@ -240,7 +240,7 @@ function submitBefore(){
 										</td>
 
 									</tr>
-									<!--reviewed 12/24/2015 JY Xu-->
+									<!--reviewed 12/28/2015 JY Xu-->
 								</table>
 							</e:etab>
 							<br>
