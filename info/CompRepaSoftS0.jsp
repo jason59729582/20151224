@@ -257,7 +257,7 @@ function initrGzmsSelect(selectObj){
 									</tr>
 									<tr>
 									    <td width="100px" class="Tab_title">其他服务说明</td>
-										<td colspan="11"><e:etextfield name="gzMem" maxSize="32"
+										<td colspan="11"><e:etextfield name="gzMem" maxSize="64"
 												nullAble='true' />
 										</td>
 									</tr>
